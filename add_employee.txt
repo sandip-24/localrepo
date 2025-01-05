@@ -1,0 +1,10 @@
+
+
+Employee added:
+E_N: 991
+Name: sandip
+Address: kamal
+Gender: male
+Phone Number: 9803662353
+Date of Birth: 2006
+Email: smakazu
