@@ -8,3 +8,13 @@ Gender: male
 Phone Number: 9803662353
 Date of Birth: 2006
 Email: smakazu
+
+
+Employee added:
+E_N: 666
+Name: Dalle
+Address: ratna park
+Gender: female
+Phone Number: 9800000000
+Date of Birth: 2006
+Email: dalle123
