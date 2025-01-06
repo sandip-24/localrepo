@@ -18,3 +18,13 @@ Gender: female
 Phone Number: 9800000000
 Date of Birth: 2006
 Email: dalle123
+
+
+Employee added:
+E_N: 696
+Name: jeebesh
+Address: Baneshwor
+Gender: male
+Phone Number: 980000000
+Date of Birth: 2006
+Email: jeebesh123
